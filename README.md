@@ -1,3 +1,3 @@
 # jenkins-lab-project
 # Test auto deploy №2
-#F
+Мне нужно успешно сдать защиту
